@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Diogo Reis!  
+🎯 **Frontend & Mobile Developer | Passionate about Technology & Innovation**  
 
-<!--
-**DiogoDking77/DiogoDking77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Engineering graduate** with a strong passion for **Frontend** and **Mobile Development**.  
+I enjoy solving problems, creating innovative solutions, and collaborating with teams to build great applications. 🚀  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me  
+- 🎓 **Education**: Computer Engineering @ IPVC - ESTG (2021 - 2024)  
+- 💡 **Skills**: React, Angular, Kotlin, TypeScript, Tailwind CSS, GitHub, Agile  
+- 🎯 **Interests**: Web & Mobile Development, UI/UX Design, Agile Methodologies  
+- 🌍 **Languages**: Portuguese (Native), English (B1/B2)  
+- 🎵 **Fun Fact**: I have a background in **Music** and play the Transverse Flute! 🎶  
+
+---
+
+## 🛠 Tech Stack  
+💻 **Frontend**: React, Angular, TypeScript, Tailwind CSS  
+📱 **Mobile**: Kotlin, Android Studio  
+🛢 **Backend**: Micronaut, Laravel, Supabase  
+🛠 **Tools**: Git, GitHub, Figma, ClickUp, Trello  
+🚀 **Cloud & Databases**: AWS, Azure, Power BI  
+
+---
+
+## 📌 Featured Projects  
+
+### 🗳️ [Electronic Voting Platform](https://github.com/DiogoDking77/EletronicVotingPlatform)  
+A voting platform built for **Atlanse**. I developed the **frontend** using **Angular & Tailwind CSS**, allowing users to create and participate in elections.  
+
+### 🎮 [Play2Plat](https://github.com/Rictrix10/Play2Plat_TPCM)  
+A **mobile app** for organizing video games into customizable lists. Built with **Kotlin & Android Studio** as an academic project and continued as a personal initiative.  
+
+### 🏆 [Fight or Fall](https://github.com/DiogoDking77/fight-or-fall-front)  
+A **web platform for tournament management**, built using **React, Laravel & Supabase**. Enables users to create and manage tournaments effortlessly.  
+
+---
+
+## 📫 Connect with Me  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/DiogoDking77)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/diogo-dos-reis-8260102b3)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://portfolio-one-brown-14.vercel.app/)  
+
+📩 **Email**: [diogoabreis@gmail.com](mailto:diogoabreis@gmail.com)  
+📍 **Location**: Ponte de Lima, Portugal  
+
+---
+
+💡 *"Keep learning, keep building!"* 🚀  
