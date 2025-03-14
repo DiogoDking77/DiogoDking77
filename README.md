@@ -11,7 +11,7 @@ I enjoy solving problems, creating innovative solutions, and collaborating with 
 - 💡 **Skills**: React, Angular, Kotlin, TypeScript, Tailwind CSS, GitHub, Agile  
 - 🎯 **Interests**: Web & Mobile Development, UI/UX Design, Agile Methodologies  
 - 🌍 **Languages**: Portuguese (Native), English (B1/B2)  
-- 🎵 **Fun Fact**: I have a background in **Music** and play the Transverse Flute! 🎶  
+- 🎵 **Fun Fact**: I have a background in **Music** where i learned a lot about music and also learned to play the Transverse Flute! 🎶  
 
 ---
 
@@ -20,7 +20,7 @@ I enjoy solving problems, creating innovative solutions, and collaborating with 
 📱 **Mobile**: Kotlin, Android Studio  
 🛢 **Backend**: Micronaut, Laravel, Supabase  
 🛠 **Tools**: Git, GitHub, Figma, ClickUp, Trello  
-🚀 **Cloud & Databases**: AWS, Azure, Power BI  
+🚀 **Some knowledge**: AWS, Azure, Power BI, PostGres, Postman, Next.js  
 
 ---
 
