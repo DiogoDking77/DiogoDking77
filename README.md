@@ -32,7 +32,7 @@ Hey! I'm **Diogo Reis**, a frontend and mobile developer from *Ponte de Lima, Po
 📌 **[Electronic Voting Platform](https://github.com/DiogoDking77/EletronicVotingPlatform)**  
 *An advanced e-voting system for secure elections.* 🔐
 
-📌 **[Play2Plat](https://github.com/Rictrix10/Play2Plat_TPCM)**  
+📌 **[Play2Plat](https://github.com/Rictrix10/Play2Plat_App)**  
 *An Android app to organize and track your video game journey!* 🎮📱
 
 📌 **[Fight or Fall](https://github.com/DiogoDking77/fight-or-fall-front)**  
