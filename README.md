@@ -12,6 +12,7 @@ Hey! I'm **Diogo Reis**, a frontend and mobile developer from *Ponte de Lima, Po
 - **Pixel-perfect UI & Animations** 🎨
 - **Creative & Playful Coding** 🕹️
 - **Learning, Exploring & Innovating** 🌍
+- **Currently diving into Jetpack Compose (Android’s modern UI toolkit)** 🧑‍💻
 
 🔭 Currently working on **making the web & mobile world more fun and interactive!**
 
